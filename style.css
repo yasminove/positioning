@@ -1,0 +1,29 @@
+div {
+  width: 121px;
+  height: 100px;
+  background: #eaeaed;
+  border: 1px;
+  margin-bottom: 22px;
+  border-radius: 5px;
+  color: #666666;
+}
+
+
+div.offset {
+  background: #fff;
+  border: 2px dashed #9799a3;
+  margin-bottom: 22px;
+  border-radius: 5px;
+}
+
+code.moved {
+  display: inline-block;
+  width: 121px;
+  height: 100px;
+  background: #2db34a;
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: #fff;
+  border-radius: 5px;
+}
